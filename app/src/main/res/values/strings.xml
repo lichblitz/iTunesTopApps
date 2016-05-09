@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top iApps</string>
+    <string name="error.network.offline.title">Sin Internet</string>
+    <string name="error.network.offline.message">Ups... No tienes acceso a internet. Conéctate y vuelve  a intentarlo.</string>
+    <string name="button.app.install">Instalar</string>
+    <string name="button.app.back">Volver</string>
+    <string name="alert.network.enabled">Yay!... Se ha reestablecido la conexión.</string>
+    <string name="error.network.online.title">Conexión reestablecida.</string>
+    <string name="alert.network.disabled">Auch... Se ha perdido la conexión. Estás usando el caché ahora.</string>
+</resources>
